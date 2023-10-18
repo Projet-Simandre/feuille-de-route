@@ -1,0 +1,11 @@
+reussir l'envoie de plusieurs donnee entre l'esp client et l'esp serveur
+
+creer un fichier txt en c++
+
+commencer la  recherche sur la reception de donnee en php
+
+faire la 3d de chaque modal + celle du serveur
+
+commencer la  recherche sur l'integration de d'autre ESP en wifi via un mot clee (lecture du nom pour le serveur pour valider l'acces)
+
+
